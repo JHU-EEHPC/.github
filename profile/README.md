@@ -12,4 +12,4 @@
 
 [TinyDronet](https://github.com/aidins1/TinyDronet)
 
-[Lighthouse Detailed Guide] (https://github.com/Leopardopt2021/Lighthouse-Deck-Detailed-Tutorial)
+[Lighthouse Detailed Guide](https://github.com/Leopardopt2021/Lighthouse-Deck-Detailed-Tutorial)
