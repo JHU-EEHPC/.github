@@ -1,5 +1,5 @@
-![umbc](https://github.com/UMBC-EEHPC/.github/raw/main/images/umbc.png) ![eehpc](https://github.com/UMBC-EEHPC/.github/raw/main/images/eehpc.png)
+![jhu](https://github.com/JHU-EEHPC/.github/raw/main/images/university.shield.small_.blue_-2.png) ![eehpc](https://github.com/UMBC-EEHPC/.github/raw/main/images/eehpc.png)
 
-**UMBC Energy Efficient High Performance Computing Lab**
+**JHU Energy Efficient High Performance Computing Lab**
 
 **Faculty:** Dr. Tinoosh Mohsenin <tinoosh@umbc.edu>
