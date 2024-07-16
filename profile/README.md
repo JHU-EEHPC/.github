@@ -2,4 +2,4 @@
 
 **JHU Energy Efficient High Performance Computing Lab**
 
-**Faculty:** Dr. Tinoosh Mohsenin <tinoosh@umbc.edu>
+**Faculty:** Dr. Tinoosh Mohsenin <tinoosh@jhu.edu>
